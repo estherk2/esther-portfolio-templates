@@ -11,22 +11,29 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi, I'm Esther! I'm a first-year student in the MISM program, and I'm excited to learn and explore. I'm originally from Korea, and before this I worked in Vision AI company as an AI Strategy Manager.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I'm excited to dive into a few things this semester:
+- How to visualize data in a way that's both beautiful and honest — right colors, right structure, nothing misleading
+- Getting real hands-on time with tools like Tableau, not just theory
+- Going through the entire process of building my own site, from scratch to publish
+- Long-term, I'm aiming for a role as an AI consultant or in AI operations after graduation
 
 # Portfolio
+
+#1 Data Visualization
+
+#2 Crafting for Clarity
+
+#3 Critique by Design
+
+#4 Choosing Chart Types
+
+#5 Practicing Persuasion
+
+#6 Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
