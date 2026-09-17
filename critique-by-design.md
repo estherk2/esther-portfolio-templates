@@ -16,25 +16,25 @@ The most immediately striking element was the illustration of an elderly couple 
 
 On the other hand, several aspects did not work as well. First, for readers who are not familiar with European geography, the map does not clearly indicate which specific countries are being shown, making the information feel incomplete without prior geographic knowledge. Second, since the actual age values are not labeled directly on the map, readers have to repeatedly glance back and forth between the map and the legend to determine each country's exact value, which adds unnecessary friction to reading the data. Third, the six discrete color categories (60 through 65) flatten what is actually continuous data, meaning two countries with meaningfully different ages, such as 62.4 and 62.9, could be grouped into the same color and appear identical when they are not. Fourth, the visualization only shows the effective labor market exit age, while the accompanying article's central argument is about the gap between this effective age and each country's legal retirement age. Since that comparison never appears on the map itself, the visualization leaves out the very context that gives the data its meaning. Fifth, the values shown are averages of male and female data combined, which conceals the gender gap in retirement timing that exists in most countries and could be an important piece of information for this topic. Finally, while the map format is effective for an intuitive first impression, a bar chart would likely have been more effective for actually interpreting the data and grasping the precise, ranked differences between countries.
 
-Usefulness — 8
+📍**Usefulness — 8**
 The visualization succeeds at its core purpose: showing which countries have earlier or later effective retirement ages, and the color-coded regional breakdown clearly conveys the intended message.
 
-Completeness — 6
+📍**Completeness — 6**
 The title specifies "effective" age, but the visualization never explains what makes it "effective" (i.e., how it differs from legal retirement age), leaving readers without that context. It also doesn't clarify how averages with decimal values were rounded into the six discrete categories.
 
-Perceptibility — 6
+📍**Perceptibility — 6**
 The map format is intuitive for a first glance, but a bar chart with age values labeled directly would be far more effective for actually interpreting the data. Since country names and exact values aren't shown on the map itself, readers must constantly reference back and forth between the map and the legend.
 
-Truthfulness — 4
+📍**Truthfulness — 4**
 As noted above, the "effective" framing in the title is never substantiated in the data itself. Retirement age is also known to vary by gender, but this visualization collapses male and female data into a single population average, obscuring that variation and limiting how accurately it represents the underlying reality.
 
-Intuitiveness — 8
+📍**Intuitiveness — 8**
 The visualization is easy to grasp at first glance: the elderly illustration immediately signals that the topic concerns older adults, and the map format immediately signals that the data is broken down by region.
 
-Aesthetics — 8
+📍**Aesthetics — 8**
 The gradient color scheme is clean and visually pleasing, though the large illustration of the elderly couple placed next to the map feels somewhat out of place in scale and positioning; adjusting its size and placement could improve the overall composition.
 
-Engagement — 4
+📍**Engagement — 4**
 The data is limited to a single metric (retirement age), which doesn't give readers much to explore further or spark deeper curiosity, the information itself feels too narrow to sustain engagement beyond the initial glance.
 
 ## Step three: Sketch a solution
