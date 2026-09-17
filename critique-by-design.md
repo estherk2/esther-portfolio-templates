@@ -79,6 +79,10 @@ Synthesis:
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
+A common pattern across the feedback I received is that the gap label is calculated relative to the effective age rather than the legal retirement age. When a chart shows "+7," viewers naturally assume this means someone worked 7 years longer than the legal retirement age, when in fact it means the opposite: the effective exit age is 7 years earlier than the legal age. This mismatch between the intuitive reading and the actual calculation baseline can seriously mislead the audience. To fix this, the gap should be explicitly anchored to the legal retirement age as the reference point, so it clearly reads as "how many years earlier people actually retire compared to the legal age." I also want to sort the data in descending order by gap size so the largest discrepancies are immediately visible at the top. 
+
+Separately, I noticed that the subtitle in my current design is colored blue, which is the same color used for the "Legal retirement age" legend dot. This creates a visual conflict where the subtitle could be mistaken for part of the legend or for data itself. To resolve this, the subtitle color should be changed to gray, or alternatively kept in italics, so it's clearly distinguished from the chart's data elements.
+
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
