@@ -8,8 +8,7 @@ _For each step below, you should document your progress as you move forward.  In
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
-I chose this dataset for two reasons. First, I've personally been very interested in retirement age as a topic. Second, I previously worked on building a dashboard using a similar map-based format at a company I worked for, so this dataset felt familiar and relevant, which is what led me to choose it.
-
+I chose this dataset for a few reasons. First, I've personally been very interested in retirement age as a topic. Second, I previously worked on building a dashboard using a similar map-based format at a company I worked for, so this dataset felt familiar and relevant. Third, the original visualization was map-based and didn't show exact numbers directly on the chart, which meant readers had to constantly cross-reference the legend to figure out precise values — I saw this as a clear opportunity for improvement, since a more precise, comparison-friendly chart type could communicate the data far more effectively. Finally, the map format also collapsed the data into six broad color categories, which hid meaningful differences between countries and made the dataset a good candidate to practice a more precise redesign approach on.
 
 2023/W16: Retirement Ages Around the World
 https://makeovermonday.vercel.app/dataset/2023w16 
