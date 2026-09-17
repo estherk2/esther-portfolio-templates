@@ -9,12 +9,34 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+2023/W16: Retirement Ages Around the World
+https://makeovermonday.vercel.app/dataset/2023w16 
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/c912e80f-dcaa-43ed-9359-df607fc953e1" />
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Usefulness — 8
+The visualization succeeds at its core purpose: showing which countries have earlier or later effective retirement ages, and the color-coded regional breakdown clearly conveys the intended message.
+
+Completeness — 6
+The title specifies "effective" age, but the visualization never explains what makes it "effective" (i.e., how it differs from legal retirement age), leaving readers without that context. It also doesn't clarify how averages with decimal values were rounded into the six discrete categories.
+
+Perceptibility — 6
+The map format is intuitive for a first glance, but a bar chart with age values labeled directly would be far more effective for actually interpreting the data. Since country names and exact values aren't shown on the map itself, readers must constantly reference back and forth between the map and the legend.
+
+Truthfulness — 4
+As noted above, the "effective" framing in the title is never substantiated in the data itself. Retirement age is also known to vary by gender, but this visualization collapses male and female data into a single population average, obscuring that variation and limiting how accurately it represents the underlying reality.
+
+Intuitiveness — 8
+The visualization is easy to grasp at first glance: the elderly illustration immediately signals that the topic concerns older adults, and the map format immediately signals that the data is broken down by region.
+
+Aesthetics — 8
+The gradient color scheme is clean and visually pleasing, though the large illustration of the elderly couple placed next to the map feels somewhat out of place in scale and positioning, adjusting its size and placement could improve the overall composition.
+
+Engagement — 4
+The data is limited to a single metric (retirement age), which doesn't give readers much to explore further or spark deeper curiosity, the information itself feels too narrow to sustain engagement beyond the initial glance.
 
 ## Step three: Sketch a solution
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/df772cb7-cc63-4576-a368-2e9ea62903b2" />
 
 ## Step four: Test the solution
 
@@ -36,12 +58,16 @@ Results:
 
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
+- Question: What elements have captured your attention?
+Interviewee 1: The color contrast of blue and red
+Interviewee 2: The bold and big title captured my attention
+Interviewee 3: The data points of the age and plus/minus signs automatically catch my eye
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+- Question: What area can be improved for better visual representation?
+Interviewee 1: Don't use the blue and red colors because Americans tend to intuitvely think that as politically related colors.
+Interviewee 2: It would be nice to reverse the order of the data so that people can see what is ascending and descending by country.
+Interviewee 3: There should be a gap between overlapping values. 
+
 
 Synthesis: 
 
