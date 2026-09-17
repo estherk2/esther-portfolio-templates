@@ -36,7 +36,7 @@ Engagement — 4
 The data is limited to a single metric (retirement age), which doesn't give readers much to explore further or spark deeper curiosity, the information itself feels too narrow to sustain engagement beyond the initial glance.
 
 ## Step three: Sketch a solution
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/df772cb7-cc63-4576-a368-2e9ea62903b2" />
+<img width="2420" height="2090" alt="image" src="https://github.com/user-attachments/assets/7384f907-ab5d-4840-a522-4a3e902072ee" />
 
 ## Step four: Test the solution
 
