@@ -59,13 +59,19 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 - Question: What elements have captured your attention?
+
 Interviewee 1: The color contrast of blue and red
+
 Interviewee 2: The bold and big title captured my attention
+
 Interviewee 3: The data points of the age and plus/minus signs automatically catch my eye
 
 - Question: What area can be improved for better visual representation?
+
 Interviewee 1: Don't use the blue and red colors because Americans tend to intuitvely think that as politically related colors.
+
 Interviewee 2: It would be nice to reverse the order of the data so that people can see what is ascending and descending by country.
+
 Interviewee 3: There should be a gap between overlapping values. 
 
 
