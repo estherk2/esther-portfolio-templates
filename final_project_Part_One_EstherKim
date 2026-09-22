@@ -33,26 +33,27 @@ A few countries land in both groups, and I call that out specifically, because i
 
 Text here...
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+## The data
+This project uses the "Top Spotify Songs in 73 Countries (Daily Updated)" dataset, published on Kaggle by user asaniczka. 
+The dataset tracks the most popular songs on Spotify across 73 countries, updated daily, and includes artist name, song title, country, daily rank, and daily movement (the change in rank from the previous day). 
+I downloaded a copy covering August 2024 through June 2025.
 
-Text here...
+I plan to filter this dataset down to K-pop artists only, using a manually compiled list of major K-pop acts (e.g. BTS, BLACKPINK, NewJeans, Stray Kids, TWICE). 
+From there, I will aggregate the number of charting K-pop tracks per country per month to show where K-pop has a steady presence versus where it is newly emerging. 
+Daily movement will help identify countries with the sharpest recent growth.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+Name : Top Spotify Songs in 73 Countries (Daily Updated)
+URL : https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to build the data visualizations in Tableau, then use Shorthand to build the narrative structure around them. 
+Each Tableau chart (the filled map, monthly line chart, and market comparison bar charts) will be published to Tableau Public and embedded directly into the Shorthand story, following the story arc from my outline: setup, rising action, climax, and resolution.
 
 ## References
-_List any references you used here._
+Kaggle dataset: "Top Spotify Songs in 73 Countries (Daily Updated)" by asaniczka. 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to help create the sketch image for this proposal. 
+I also used Claude to help answer some questions I had while working on this assignment. 
+I reviewed and edited all content before submitting.
