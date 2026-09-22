@@ -1,8 +1,5 @@
 | [home page](https://github.com/estherk2/esther-portfolio-templates) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final_project_Part_One_EstherKim) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 ## Outline 
 This project explores how K-pop has spread across global music markets by analyzing daily Spotify chart data from 73 countries. 
 Using artist name, song title, country, daily rank, and daily movement, I will identify which countries K-pop artists chart in, how high they rank, and whether their position is rising or falling.
