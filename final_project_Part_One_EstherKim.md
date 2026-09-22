@@ -29,9 +29,8 @@ A few countries land in both groups, and I call that out specifically, because i
 - As a casual reader, I want a single map I can look at and immediately understand where K-pop is strong and where it is emerging, without reading a report.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+The sketch follows my story arc: a map of K-pop's reach (setup), monthly growth with key spikes (rising action), steady vs. fast-growing markets (climax), and what it all means (resolution).
+<img width="1312" height="1199" alt="Final Project 1 Sketch" src="https://github.com/user-attachments/assets/d3542877-4b31-4eb4-8d21-a58e677c8229" />
 
 ## The data
 This project uses the "Top Spotify Songs in 73 Countries (Daily Updated)" dataset, published on Kaggle by user asaniczka. 
@@ -42,7 +41,6 @@ I plan to filter this dataset down to K-pop artists only, using a manually compi
 From there, I will aggregate the number of charting K-pop tracks per country per month to show where K-pop has a steady presence versus where it is newly emerging. 
 Daily movement will help identify countries with the sharpest recent growth.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 Name : Top Spotify Songs in 73 Countries (Daily Updated)
 URL : https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
 
