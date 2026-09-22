@@ -10,6 +10,7 @@ Using artist name, song title, country, daily rank, and daily movement, I will i
 The goal is to show a geographic pattern of K-pop's reach, highlighting countries where K-pop has strong, stable chart presence versus countries where it is newly emerging or losing ground.
 
 [Project Structure]
+
 The story opens with a filled map of all 73 countries, colored by how many K-pop tracks appeared in daily Spotify charts at any point between August 2024 and June 2025. 
 The reader's first reaction should be surprise at how wide the color spreads. This establishes the scale first.
 
