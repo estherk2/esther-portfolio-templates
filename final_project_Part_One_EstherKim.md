@@ -1,4 +1,4 @@
-| [home page](https://github.com/estherk2/esther-portfolio-templates) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://github.com/estherk2/esther-portfolio-templates) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final_project_Part_One_EstherKim) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
@@ -45,7 +45,7 @@ Daily movement will help identify countries with the sharpest recent growth.
 Name : Top Spotify Songs in 73 Countries (Daily Updated)
 URL : https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
 
-# Method and medium
+## Method and medium
 I plan to build the data visualizations in Tableau, then use Shorthand to build the narrative structure around them. 
 Each Tableau chart (the filled map, monthly line chart, and market comparison bar charts) will be published to Tableau Public and embedded directly into the Shorthand story, following the story arc from my outline: setup, rising action, climax, and resolution.
 
