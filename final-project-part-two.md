@@ -11,8 +11,9 @@ This opening frame establishes why K-pop deserves attention as a global entertai
 K-pop’s global growth raises the next question: where is this momentum coming from, and what may be driving it? One possible pathway is exposure to Korean-inspired entertainment beyond music itself. To explore this possibility, the story turns to the 2025 release of KPop Demon Hunters and the changes in K-pop listening reported afterward. The indexed bars compare those changes with the earlier 2025 daily average, set to 100. This case study helps investigate one potential growth mechanism; it does not explain the entire decade of growth or establish that the film caused the increase.
 <img width="1700" height="1020" alt="02" src="https://github.com/user-attachments/assets/4dbbb9c5-22ed-44f5-85ef-ba09d532155f" />
 
-### Frame 3 — Comparing Market Responses
-This frame moves from the global comparison to differences between the markets reported by Spotify. A horizontal bar chart allows readers to compare the selected countries against the global reference using a common scale. Geographic variation matters to the intended reader because a content partnership may perform differently across markets. The next frame asks whether the broader listening pattern extends beyond the soundtrack itself.
+
+### Frame 3 — Does the Same Growth Pathway Work Across Markets?
+If cross-media entertainment is one possible pathway for K-pop growth, the next question is whether that pathway produces similar responses across markets. Following the release of *KPop Demon Hunters*, Spotify reported increases of 60% in Ireland, 56% in Sweden, and 46% in the United States, compared with 25% globally. These differences suggest that entertainment companies should examine local receptivity when considering content partnerships. However, the figures alone do not explain why responses differed or identify the most attractive investment market. Before exploring those opportunities further, the next frame asks whether the increase extended beyond the film’s soundtrack.
 <img width="1700" height="1020" alt="03" src="https://github.com/user-attachments/assets/51744e29-f67e-4b28-b1e1-df8f3c1cd6fd" />
 
 ### Frame 4 — Looking Beyond the Soundtrack
