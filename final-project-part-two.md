@@ -4,7 +4,7 @@
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 ### Frame 1 — Establishing K-pop’s Global Scale
-This opening frame establishes why K-pop deserves attention as a global entertainment market, which is my target audience. The two summary figures provide context without inventing an annual trend that the source does not supply. Beginning with scale helps readers understand the significance of the case study that follows: how might a film introduce a wider audience to K-pop?
+This opening frame establishes why K-pop deserves attention as a global entertainment market. The two summary figures provide context without inventing an annual trend that the source does not supply. Beginning with scale helps readers understand the significance of the case study that follows: how might a film introduce a wider audience to K-pop?
 <img width="1700" height="1020" alt="01" src="https://github.com/user-attachments/assets/e7e5650d-2033-4b49-a00a-1192f9e00cf1" />
 
 ### Frame 2 — Introducing the Cross-Media Case Study
