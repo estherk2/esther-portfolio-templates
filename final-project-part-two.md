@@ -16,8 +16,8 @@ K-pop’s global growth raises the next question: where is this momentum coming 
 If cross-media entertainment is one possible pathway for K-pop growth, the next question is whether that pathway produces similar responses across markets. Following the release of *KPop Demon Hunters*, Spotify reported increases of 60% in Ireland, 56% in Sweden, and 46% in the United States, compared with 25% globally. These differences suggest that entertainment companies should examine local receptivity when considering content partnerships. However, the figures alone do not explain why responses differed or identify the most attractive investment market. Before exploring those opportunities further, the next frame asks whether the increase extended beyond the film’s soundtrack.
 <img width="1700" height="1020" alt="03" src="https://github.com/user-attachments/assets/51744e29-f67e-4b28-b1e1-df8f3c1cd6fd" />
 
-### Frame 4 — Looking Beyond the Soundtrack
-This frame addresses a key question: does the observed growth simply reflect a popular soundtrack, or does it extend to the wider genre? Showing the two listening categories separately helps readers assess that distinction. This step is necessary before discussing broader opportunities for artists and content partnerships. The percentages have different bases and should not be stacked or subtracted to estimate the soundtrack’s contribution.
+### Frame 4 — Does Growth Extend to the Broader K-pop Market?
+For investors evaluating the K-pop industry, a key question is whether the increase is concentrated in one successful soundtrack or extends to the wider genre. Spotify reported a 25% increase in overall K-pop streams following the film’s release, while streams excluding the soundtrack increased by 9%. This suggests that the observed growth reached beyond a single entertainment property, making broader K-pop demand worth examining. 
 <img width="1700" height="1020" alt="04" src="https://github.com/user-attachments/assets/347cb40f-5cdc-4b21-82ee-9b46ffa191ec" />
 
 ### Frame 5 — Examining Audience Differences
