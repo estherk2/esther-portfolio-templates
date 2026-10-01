@@ -20,8 +20,8 @@ If cross-media entertainment is one possible pathway for K-pop growth, the next 
 For investors evaluating the K-pop industry, a key question is whether the increase is concentrated in one successful soundtrack or extends to the wider genre. Spotify reported a 25% increase in overall K-pop streams following the film’s release, while streams excluding the soundtrack increased by 9%. This suggests that the observed growth reached beyond a single entertainment property, making broader K-pop demand worth examining. 
 <img width="1700" height="1020" alt="04" src="https://github.com/user-attachments/assets/347cb40f-5cdc-4b21-82ee-9b46ffa191ec" />
 
-### Frame 5 — Examining Audience Differences
-This frame examines how relative listening changes vary across age groups. The groups remain in chronological order, while the strongest reported increase is highlighted for easy comparison. This view encourages readers to reconsider which audiences a cross-media project might reach. However, percentage growth does not establish the size of each audience or identify newly acquired listeners. The story then turns to the artists encountered by soundtrack listeners.
+### Frame 5 — How Broad Is K-pop’s Audience Growth?
+After establishing that listening increased beyond the soundtrack, this frame asks whether that growth was concentrated in particular age groups or spread across a broader audience. Spotify reported increases across all listed age groups, with the largest relative increase among listeners aged 35–44. For investors evaluating the K-pop industry, this pattern helps identify which consumer segments deserve closer attention when assessing demand expansion. 
 <img width="1700" height="1020" alt="05" src="https://github.com/user-attachments/assets/e16cb99b-beb1-4b24-b70f-6e5712acb00a" />
 
 ### Frame 6 — Showing Artist Discovery
