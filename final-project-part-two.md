@@ -7,8 +7,8 @@
 This opening frame establishes why K-pop deserves attention as a global entertainment market. Beginning with scale helps readers understand the significance of the case study that follows: how might a film introduce a wider audience to K-pop?
 <img width="1700" height="1020" alt="01" src="https://github.com/user-attachments/assets/e7e5650d-2033-4b49-a00a-1192f9e00cf1" />
 
-### Frame 2 — Introducing the Cross-Media Case Study
-This frame introduces KPop Demon Hunters as a case study of the relationship between screen entertainment and music listening. The indexed bars make the reported before-and-after comparison easy to understand, with the earlier 2025 daily average set to 100. This comparison establishes the central question of the story and leads readers to examine whether the response was consistent across markets. It shows a post-release association rather than proving that the film caused the increase.
+### Frame 2 — Exploring What May Be Driving Growth
+K-pop’s global growth raises the next question: where is this momentum coming from, and what may be driving it? One possible pathway is exposure to Korean-inspired entertainment beyond music itself. To explore this possibility, the story turns to the 2025 release of KPop Demon Hunters and the changes in K-pop listening reported afterward. The indexed bars compare those changes with the earlier 2025 daily average, set to 100. This case study helps investigate one potential growth mechanism; it does not explain the entire decade of growth or establish that the film caused the increase.
 <img width="1700" height="1020" alt="02" src="https://github.com/user-attachments/assets/4dbbb9c5-22ed-44f5-85ef-ba09d532155f" />
 
 ### Frame 3 — Comparing Market Responses
