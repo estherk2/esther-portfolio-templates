@@ -28,50 +28,106 @@ Consider K-pop when evaluating music-industry investments. Its global growth and
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+The target audience for this story is college students and young adults who are interested in business, music, or global market trends. The story aims to help them explore K-pop’s global performance from a market perspective and consider which countries may present opportunities for future investment or expansion.
+
+To identify representative individuals, I will interview college students with different levels of familiarity with K-pop and business or data analysis. I chose this range to represent both people who are already familiar with K-pop and those who may approach the story primarily from a general business or market perspective. Their feedback will help me evaluate whether the story clearly communicates differences between established and emerging K-pop markets and provides enough information for viewers to form their own conclusions about potential market opportunities.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+[Goal 1]
+Understand the audience’s existing perception of K-pop’s global reach
+[Questions to Ask 1]
+Before seeing the visualizations, which countries or regions do you think have the strongest K-pop presence? Were you surprised by any countries shown in the data?
 
-Text here!
+[Goal 2]
+Evaluate whether the visualizations clearly communicate established and emerging markets
+[Questions to Ask 2]
+Which countries seem to have a strong and stable K-pop presence? Which countries seem to be emerging? Was anything confusing or difficult to interpret?
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+[Goal 3]
+Determine whether the story provides useful information for thinking about market opportunities
+[Questions to Ask 3]
+If you were considering expanding or investing in a K-pop-related business, which market would you want to explore further based on this data? What additional information would you need?
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+### Questions: Which countries or regions do you think have the strongest K-pop presence?
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+Interview 1 - frequent K-pop listener
+Expected South Korea and other Asian markets to be strongest, but was curious about K-pop's reach outside Asia.
 
+Interview 2 - casual listener
+Expected strong popularity in South Korea, Japan, and the U.S.
+
+Interview 3 - rarely listens to K-pop
+Was unsure beyond South Korea and the U.S., showing less prior knowledge of K-pop's international reach.
+
+### Questions: What is the first thing you notice from the visualizations?
+
+Interview 1 - frequent K-pop listener
+Immediately noticed that K-pop chart presence extends across many countries
+
+Interview 2 - casual listener
+Focused on the differences between countries rather than the total global reach.
+
+Interview 3 - rarely listens to K-pop
+Was surprised by how geographically widespread K-pop appeared.
+
+### Question: Can you identify established versus emerging K-pop markets?
+
+Interview 1 - frequent K-pop listener
+Could identify the distinction but wanted a clearer definition of what qualifies as an "emerging" market.
+
+Interview 2 - casual listener
+Understood the general pattern but found it difficult to compare countries when many lines appeared together.
+
+Interview 3 - rarely listens to K-pop
+Had difficulty interpreting the distinction without additional labels or explanations.
+
+### Question: If you were considering a K-pop-related expansion or investment, which market would you explore further? Why?
+
+Interview 1 - frequent K-pop listener
+Focused on markets showing consistent growth rather than countries that were already highly established.
+
+Interview 2 - casual listener
+Was interested in countries with recent increases in chart activity, but wanted more context about whether the growth was sustained.
+
+Interview 3 - rarely listens to K-pop
+Said the Spotify data was useful for identifying potential markets but would want additional information before making a decision.
+
+### Question: What would make the story easier or more useful to understand?
+
+Interview 1 - frequent K-pop listener
+Suggested clearly labeling established and emerging markets.
+
+Interview 2 - casual listener
+Suggested highlighting important spikes instead of showing too many competing lines.
+
+Interview 3 - rarely listens to K-pop
+Wanted short explanations of what each visualization was supposed to show and why the pattern mattered.
+
+Overall, the interviews suggest that the geographic reach of K-pop is interesting even to viewers with limited knowledge of K-pop. However, viewers with less familiarity need more guidance to distinguish between established and emerging markets and to understand why certain changes in Spotify chart activity matter.
+
+One recurring issue was that comparing many countries at once could become visually overwhelming. One participant noted that it was “hard to tell which countries I should focus on,” while another wanted a clearer explanation of what qualifies as an emerging market.
+
+Based on this feedback, I plan to:
+
+- Clearly define what I mean by “established” and “emerging” K-pop markets.
+- Highlight selected countries rather than giving every country equal visual emphasis.
+- Add annotations to important spikes or changes in chart activity.
+- Add short captions explaining the main takeaway from each visualization.
+- Make the transition from K-pop’s global reach to potential market opportunities more explicit.
+- Clarify that Spotify chart performance is an indicator of audience interest rather than sufficient evidence by itself for an investment decision.
+
+These changes will help the story remain accessible to a general audience while preserving its market and investment perspective.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+Research synthesis
+Student interviewees needed more context to understand the data from an investment perspective
 
-Text here!
+Anticipated changes for Part III      
+I will simplify the data explanations and adjust the story logic to make the market trends and opportunities easier for a general student audience to understand.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
@@ -79,8 +135,16 @@ Text here!
 Text here!
 
 ## References
-_List any references you used here._
+Spotify Selects — “KPop Demon Hunters Soundtrack Boosts” — Used for Spotify statistics on the growth and global reach of K-pop, including changes in listening after KPop Demon Hunters.
+
+Netflix — “The Ripple Effect of K-Content: How Netflix Viewers Are Embracing Korean Culture” — June 25, 2025. Used for global K-content audience research conducted with 2CV across 11,500+ respondents in eight countries, including data on interest in Korean culture. About Netflix
+
+Netflix — Investment in Korea — April 24, 2023. Used as evidence of industry investment in Korean content; Netflix announced a $2.5 billion investment in Korean content over four years. About Netflix
+
+Netflix — “Netflix Takes K-Content to New Heights with 2023 Slate” — January 17, 2023. Used as additional context on the international reach of Korean entertainment; Netflix reported that more than 60% of its members watched Korean titles in 2022. About Netflix
+
+Spotify Daily Chart Dataset, August 2024–June 2025 — Primary dataset used for the project, covering daily Spotify chart activity across 73 countries, including artist, track, country, rank, and daily movement.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to help organize and refine my written content and to improve clarity and structure. I also used AI to help brainstorm and create initial wireframe ideas for the visualizations. The final project decisions, analysis, and design choices were made by me.
 
