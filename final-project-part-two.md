@@ -4,11 +4,11 @@
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 ### Frame 1 — Establishing K-pop’s Global Scale
-This opening frame establishes why K-pop deserves attention as a global entertainment market. Its growth raises the central question for investors: what could drive the next stage of demand expansion?
+This opening frame shows how K-pop has grown into a global entertainment market. As its global reach continues to expand, it also raises questions about what could drive the next stage of growth and where new opportunities might emerge.
 <img width="1700" height="1020" alt="01" src="https://github.com/user-attachments/assets/e7e5650d-2033-4b49-a00a-1192f9e00cf1" />
 
 ### Frame 2 — Exploring What May Be Driving Growth
-K-pop’s global growth raises the next question: where is this momentum coming from, and what may be driving it? One possible pathway is exposure to Korean-inspired entertainment beyond music itself. To explore this possibility, the story turns to the 2025 release of KPop Demon Hunters and the changes in K-pop listening reported afterward. The indexed bars compare those changes with the earlier 2025 daily average, set to 100. This case study helps investigate one potential growth mechanism; it does not explain the entire decade of growth or establish that the film caused the increase.
+K-pop’s global growth raises the next question: where is this momentum coming from, and what may be driving it? One possible pathway is exposure to Korean-inspired entertainment beyond music itself. To explore this possibility, the story turns to the 2025 release of K-pop Demon Hunters and the changes in K-pop listening reported afterward. The indexed bars compare those changes with the earlier 2025 daily average, set to 100. This case study helps investigate one potential growth mechanism; it does not explain the entire decade of growth or establish that the film caused the increase.
 <img width="1700" height="1020" alt="02" src="https://github.com/user-attachments/assets/4dbbb9c5-22ed-44f5-85ef-ba09d532155f" />
 
 ### Frame 3 — Growth Beyond a Single Soundtrack
@@ -16,7 +16,7 @@ Was the increase limited to the film’s songs? Spotify reported a 25% increase 
 <img width="1700" height="1020" alt="04 (1)" src="https://github.com/user-attachments/assets/f7e41f3c-b9cf-4d0a-8203-8a7cffc62c7e" />
 
 ### Frame 4 — The Next K-pop Audience May Arrive Through a Screen
-The KPop Demon Hunters case raises a bigger question: could continued exposure to Korean films and series create further opportunities for K-pop? A Netflix-commissioned survey found that 58% of Netflix members expressed interest in Korean culture, compared with 32% of non-members. Netflix also announced a $2.5 billion, four-year Korean-content investment plan in 2023. These findings suggest a potential audience and content pipeline through which more people may encounter Korean music. They provide context for a growth opportunity, rather than proof of future K-pop demand.
+The K-pop Demon Hunters case raises a bigger question: could continued exposure to Korean films and series create further opportunities for K-pop? A Netflix-commissioned survey found that 58% of Netflix members expressed interest in Korean culture, compared with 32% of non-members. Netflix also announced a $2.5 billion, four-year Korean-content investment plan in 2023. These findings suggest a potential audience and content pipeline through which more people may encounter Korean music. They provide context for a growth opportunity, rather than proof of future K-pop demand.
 <img width="2040" height="1190" alt="Frame_4_Screen_to_Kpop" src="https://github.com/user-attachments/assets/1cad7d0e-e61e-478a-9b56-e89837497442" />
 
 ### Frame 5 - Call to Action
@@ -28,11 +28,11 @@ Consider K-pop when evaluating music-industry investments. Its global growth and
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-The target audience for this story is business-oriented college students and young professionals who are interested in the entertainment industry, global market trends, and potential investment opportunities, but may not have extensive knowledge of K-pop.
+The target audience for this story is college students and young professionals who are interested in business, entertainment, and investment. They do not need to have much knowledge of K-pop. The story is meant to help them look at K-pop from a market perspective and think about where future investment opportunities could emerge.
 
-I chose this audience because the story presents K-pop not simply as a cultural phenomenon, but as a growing global market. The goal is to help non-expert viewers understand K-pop’s global growth, explore potential drivers of future demand, and consider where future market opportunities may exist.
+I chose this audience because the story looks at K-pop not just as a cultural phenomenon but as a growing global market. It shows how K-pop has expanded and explores what could drive the next stage of demand growth. From there, the audience can consider what these trends could mean for future investment opportunities.
 
-To identify representative individuals, I interviewed college students with different levels of familiarity with K-pop. Although they are not professional investors, they represent the type of non-expert, business-oriented audience the story is designed to reach. Their different levels of K-pop knowledge helped me evaluate whether the story could communicate its market and investment perspective clearly without requiring prior expertise.
+For my interviews, I chose college students with different levels of familiarity with K-pop. I interviewed a frequent listener, a casual listener, and someone who rarely listens to K-pop. This helped me see whether the story was understandable even without much prior knowledge of K-pop. Their feedback also helped me identify where I needed clearer explanations, more context, or stronger visual guidance.
 
 ## Interview script
 [Goal 1]
@@ -108,20 +108,17 @@ Suggested highlighting important spikes instead of showing too many competing li
 Interview 3 - rarely listens to K-pop
 Wanted short explanations of what each visualization was supposed to show and why the pattern mattered.
 
-Overall, the interviews suggest that the geographic reach of K-pop is interesting even to viewers with limited knowledge of K-pop. However, viewers with less familiarity need more guidance to distinguish between established and emerging markets and to understand why certain changes in Spotify chart activity matter.
+Overall, the interviews suggest that K-pop’s global reach is interesting even to viewers with limited knowledge of K-pop. However, viewers with less familiarity need more guidance to understand why certain changes in Spotify activity matter and how they could relate to potential market or investment opportunities.
 
-One recurring issue was that comparing many countries at once could become visually overwhelming. One participant noted that it was “hard to tell which countries I should focus on,” while another wanted a clearer explanation of what qualifies as an emerging market.
+One recurring issue was that comparing many countries at once could become visually overwhelming. One participant noted that it was “hard to tell which countries I should focus on,” while another wanted a clearer explanation of what qualifies as an emerging market. The interviews also showed that Spotify data alone was not enough to evaluate an investment opportunity, so the story needs to clearly separate signs of audience growth from evidence of actual investment potential.
 
 Based on this feedback, I plan to:
 
 - Clearly define what I mean by “established” and “emerging” K-pop markets.
-- Highlight selected countries rather than giving every country equal visual emphasis.
 - Add annotations to important spikes or changes in chart activity.
-- Add short captions explaining the main takeaway from each visualization.
-- Make the transition from K-pop’s global reach to potential market opportunities more explicit.
+- Add short captions explaining why each pattern matters.
+- Make the connection between audience growth and potential market opportunities clearer.
 - Clarify that Spotify chart performance is an indicator of audience interest rather than sufficient evidence by itself for an investment decision.
-
-These changes will help the story remain accessible to a general audience while preserving its market and investment perspective.
 
 # Identified changes for Part III
 Research synthesis
