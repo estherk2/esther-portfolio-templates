@@ -28,9 +28,11 @@ Consider K-pop when evaluating music-industry investments. Its global growth and
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-The target audience for this story is college students and young adults who are interested in business, music, or global market trends. The story aims to help them explore K-pop’s global performance from a market perspective and consider which countries may present opportunities for future investment or expansion.
+The target audience for this story is business-oriented college students and young professionals who are interested in the entertainment industry, global market trends, and potential investment opportunities, but may not have extensive knowledge of K-pop.
 
-To identify representative individuals, I will interview college students with different levels of familiarity with K-pop and business or data analysis. I chose this range to represent both people who are already familiar with K-pop and those who may approach the story primarily from a general business or market perspective. Their feedback will help me evaluate whether the story clearly communicates differences between established and emerging K-pop markets and provides enough information for viewers to form their own conclusions about potential market opportunities.
+I chose this audience because the story presents K-pop not simply as a cultural phenomenon, but as a growing global market. The goal is to help non-expert viewers understand K-pop’s global growth, explore potential drivers of future demand, and consider where future market opportunities may exist.
+
+To identify representative individuals, I interviewed college students with different levels of familiarity with K-pop. Although they are not professional investors, they represent the type of non-expert, business-oriented audience the story is designed to reach. Their different levels of K-pop knowledge helped me evaluate whether the story could communicate its market and investment perspective clearly without requiring prior expertise.
 
 ## Interview script
 [Goal 1]
