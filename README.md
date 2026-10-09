@@ -50,7 +50,7 @@ You can keep this section for stuff from in-class demos or your other work, or r
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
+[Part I](final-project-part-one.md)
+[Part II](final-project-part-two.md)
 Part III(final-project-part-three)
 
