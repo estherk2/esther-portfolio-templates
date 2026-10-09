@@ -43,9 +43,10 @@ I'm excited to dive into a few things this semester:
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
+
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
