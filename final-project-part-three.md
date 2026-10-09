@@ -1,9 +1,15 @@
 | [home page](https://estherk2.github.io/esther-portfolio-templates/) | [data viz examples](dataviz-examples.md) |[critique by design](critique-by-design.md) | [final project I](final-project-part-one.md)) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+https://carnegiemellon.shorthandstories.com/k-pop-invest/index.html
 
-Text here!
+For my final data story, I aimed to explore the global growth of K-pop and understand what may be driving its expansion beyond its existing fan base. Rather than simply showing that K-pop has become popular worldwide, I wanted to examine how new audiences discover K-pop, how cultural exposure can influence listening behavior, and why these patterns matter for the industry's future.
+
+I structured my story around a series of connected questions. First, I introduce K-pop's global reach to establish the scale of its popularity. I then explore a potential driver of growth: exposure through other forms of entertainment, particularly the success of K-pop Demon Hunters. Using Spotify listening data, I examine how the film's release was associated with changes in K-pop consumption across different countries, age groups, and artists. This case study helps illustrate how a cultural event can introduce new listeners to a broader music genre.
+
+Another important goal was to highlight that K-pop's growth is not uniform across markets. By comparing listening patterns across countries and distinguishing between engagement with the soundtrack and broader K-pop music, I wanted to show how audience responses can vary. I also explored artist discovery to better understand how exposure to the film might encourage listeners to engage with K-pop beyond the original soundtrack.
+
+My intended audience was young professionals and individuals interested in investing in the K-pop entertainment industry. Therefore, I focused on presenting data in a way that highlights potential growth opportunities, emerging markets, and the factors driving K-pop's global expansion. Through clear visualizations and comparisons, I wanted readers to understand not only where K-pop is growing, but also what these trends could mean for future investment opportunities.
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
