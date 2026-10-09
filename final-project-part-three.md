@@ -14,7 +14,9 @@ My intended audience was young professionals and individuals interested in inves
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+Initially, I planned to expand my story by incorporating Netflix-related data to explore how Korean films and series could create new opportunities for K-pop's global growth. In particular, I wanted to examine whether exposure to Korean content through streaming platforms could encourage audiences to discover Korean music. To support this idea, I considered including a Netflix-commissioned survey showing that 58% of Netflix members expressed interest in Korean culture, compared with 32% of non-members, as well as Netflix's $2.5 billion investment plan for Korean content.
+
+However, as I developed the final story, I realized that expanding into Netflix's broader content strategy would gradually shift the focus away from the K-pop industry toward the Korean entertainment industry as a whole. Given the limited time available and the importance of maintaining a clear narrative, I decided to remove this section and focus more directly on K-pop's growth, global reach, and influence. This allowed me to keep the story more focused and ensure that each visualization contributed to the central question of how K-pop is expanding and reaching new audiences.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
