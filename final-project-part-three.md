@@ -12,8 +12,6 @@ Another important goal was to highlight that K-pop's growth is not uniform acros
 My intended audience was young professionals and individuals interested in investing in the K-pop entertainment industry. Therefore, I focused on presenting data in a way that highlights potential growth opportunities, emerging markets, and the factors driving K-pop's global expansion. Through clear visualizations and comparisons, I wanted readers to understand not only where K-pop is growing, but also what these trends could mean for future investment opportunities.
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
 Initially, I planned to expand my story by incorporating Netflix-related data to explore how Korean films and series could create new opportunities for K-pop's global growth. In particular, I wanted to examine whether exposure to Korean content through streaming platforms could encourage audiences to discover Korean music. To support this idea, I considered including a Netflix-commissioned survey showing that 58% of Netflix members expressed interest in Korean culture, compared with 32% of non-members, as well as Netflix's $2.5 billion investment plan for Korean content.
 
 However, as I developed the final story, I realized that expanding into Netflix's broader content strategy would gradually shift the focus away from the K-pop industry toward the Korean entertainment industry as a whole. Given the limited time available and the importance of maintaining a clear narrative, I decided to remove this section and focus more directly on K-pop's growth, global reach, and influence. This allowed me to keep the story more focused and ensure that each visualization contributed to the central question of how K-pop is expanding and reaching new audiences.
@@ -26,21 +24,19 @@ To guide my storytelling decisions, I developed a fictional audience persona rep
 With this audience in mind, I structured the narrative to move from K-pop's global reach to a specific case study of *KPop Demon Hunters*, followed by comparisons of audience responses and broader K-pop listening patterns. I focused on clear visualizations and accessible explanations, allowing readers to explore the industry's growth without requiring extensive prior knowledge. I also avoided making direct investment recommendations, instead highlighting market trends and potential growth drivers that could inform further research.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+The most important design decision I made was to structure my data story around a series of questions. Rather than presenting visualizations as separate pieces of information, I wanted each finding to naturally lead readers to the next question. My goal was to create a sense of curiosity and encourage readers to explore the data step by step, making the story feel like a connected journey rather than a collection of statistics.
 
-Text here!
+This approach also influenced how I selected and organized my visualizations. I focused on ensuring that each chart answered a specific question while creating a natural transition to the next part of the story.
+
+One of the biggest things I learned was how much the flow of a story matters. Even when I had interesting data, I sometimes struggled to connect the findings in a way that felt natural. This process helped me realize how important it is to think about the questions readers might have as they move through the story.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+All references and data sources are included in my final Shorthand story.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+I used ChatGPT to help draft and refine the written content of my final project, particularly to improve clarity, grammar, and the overall flow of my writing. The research, data analysis, and storytelling decisions were my own.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+If I had more time, I would have liked to explore why K-pop demand increased so sharply in Ireland, Sweden, and the United States in 2025. I was curious whether these three countries shared any common characteristics or whether recent cultural exchanges with Korea might help explain the increase. Unfortunately, I didn't have enough time to investigate these questions further. I think exploring these connections could have helped me uncover more interesting insights and develop a deeper story behind the data.
 
 
